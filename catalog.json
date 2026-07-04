@@ -1,23 +1,67 @@
 [
-  {
-    "brand": "モラク",
-    "productName": "ワンモア ブラウン",
-    "diameter": 13.2,
-    "colorTag": "ブラウン系",
-    "barcode": "4901234567890"
-  },
-  {
-    "brand": "モラク",
-    "productName": "ワンモア グレージュ",
-    "diameter": 13.6,
-    "colorTag": "グレー系",
-    "barcode": "4901234567891"
-  },
-  {
-    "brand": "新ブランド",
-    "productName": "新商品ブラウン",
-    "diameter": 13.5,
-    "colorTag": "ブラウン系",
-    "releasedAt": "2026-07-01T00:00:00Z"
-  }
+  { "brand": "モラク", "productName": "ワンモア ブラウン", "diameter": 13.2, "colorTag": "ブラウン系", "barcode": "4901234567890" },
+  { "brand": "モラク", "productName": "ワンモア グレージュ", "diameter": 13.6, "colorTag": "グレー系", "barcode": "4901234567891" },
+  { "brand": "モラク", "productName": "クリアグリーン", "diameter": 13.1, "colorTag": "グリーン系" },
+  { "brand": "モラク", "productName": "スウィートヘーゼル", "diameter": 13.4, "colorTag": "ヘーゼル系" },
+  { "brand": "モラク", "productName": "ミッドナイトブラック", "diameter": 13.0, "colorTag": "ブラック系" },
+
+  { "brand": "エバーカラーワンデー", "productName": "ナチュラル ヘーゼル", "diameter": 13.0, "colorTag": "ヘーゼル系", "barcode": "4909876543210" },
+  { "brand": "エバーカラーワンデー", "productName": "リッチメイク ブラウン", "diameter": 14.1, "colorTag": "ブラウン系" },
+  { "brand": "エバーカラーワンデー", "productName": "ソフトグレージュ", "diameter": 13.6, "colorTag": "グレー系" },
+  { "brand": "エバーカラーワンデー", "productName": "アーモンドブラウン", "diameter": 13.3, "colorTag": "ブラウン系" },
+  { "brand": "エバーカラーワンデー", "productName": "スターリーグレー", "diameter": 14.0, "colorTag": "グレー系" },
+
+  { "brand": "リルモア", "productName": "シアーブラウン", "diameter": 13.4, "colorTag": "ブラウン系" },
+  { "brand": "リルモア", "productName": "スモーキーグレー", "diameter": 13.8, "colorTag": "グレー系" },
+  { "brand": "リルモア", "productName": "ミルキーベージュ", "diameter": 13.5, "colorTag": "グレー系" },
+  { "brand": "リルモア", "productName": "リッチヘーゼル", "diameter": 13.9, "colorTag": "ヘーゼル系" },
+
+  { "brand": "シークレットキャンディーマジック", "productName": "デイジーブラック", "diameter": 14.2, "colorTag": "ブラック系" },
+  { "brand": "シークレットキャンディーマジック", "productName": "デイジーブラウン", "diameter": 14.0, "colorTag": "ブラウン系" },
+  { "brand": "シークレットキャンディーマジック", "productName": "ローズピンク", "diameter": 14.0, "colorTag": "ピンク系" },
+  { "brand": "シークレットキャンディーマジック", "productName": "エンジェルグレー", "diameter": 14.2, "colorTag": "グレー系" },
+
+  { "brand": "ラルムドール", "productName": "クリアヘーゼル", "diameter": 13.3, "colorTag": "ヘーゼル系" },
+  { "brand": "ラルムドール", "productName": "ミルクグレー", "diameter": 13.7, "colorTag": "グレー系" },
+  { "brand": "ラルムドール", "productName": "アプリコットブラウン", "diameter": 13.2, "colorTag": "ブラウン系" },
+  { "brand": "ラルムドール", "productName": "スイートバイオレット", "diameter": 13.6, "colorTag": "バイオレット系" },
+
+  { "brand": "フェアリー", "productName": "ピュアブラック", "diameter": 12.8, "colorTag": "ブラック系" },
+  { "brand": "フェアリー", "productName": "ベビーピンク", "diameter": 13.5, "colorTag": "ピンク系" },
+  { "brand": "フェアリー", "productName": "スノーグレー", "diameter": 13.9, "colorTag": "グレー系" },
+  { "brand": "フェアリー", "productName": "コットンブラウン", "diameter": 13.1, "colorTag": "ブラウン系" },
+
+  { "brand": "キャンディーマジック", "productName": "ヴィヴィッドバイオレット", "diameter": 14.3, "colorTag": "バイオレット系" },
+  { "brand": "キャンディーマジック", "productName": "オーシャンブルー", "diameter": 13.9, "colorTag": "ブルー系" },
+  { "brand": "キャンディーマジック", "productName": "フォレストグリーン", "diameter": 13.7, "colorTag": "グリーン系" },
+  { "brand": "キャンディーマジック", "productName": "サンセットピンク", "diameter": 14.1, "colorTag": "ピンク系" },
+
+  { "brand": "ラブコフレ", "productName": "シフォンブラウン", "diameter": 13.1, "colorTag": "ブラウン系" },
+  { "brand": "ラブコフレ", "productName": "シフォングレージュ", "diameter": 13.4, "colorTag": "グレー系" },
+  { "brand": "ラブコフレ", "productName": "シフォンヘーゼル", "diameter": 13.0, "colorTag": "ヘーゼル系" },
+  { "brand": "ラブコフレ", "productName": "シフォンブラック", "diameter": 13.2, "colorTag": "ブラック系" },
+
+  { "brand": "ワンデーアキュビューディファイン", "productName": "ナチュラルシャイン ブラウン", "diameter": 14.2, "colorTag": "ブラウン系" },
+  { "brand": "ワンデーアキュビューディファイン", "productName": "ヴィヴィッドスタイル", "diameter": 14.2, "colorTag": "ブラック系" },
+  { "brand": "ワンデーアキュビューディファイン", "productName": "フレッシュ", "diameter": 14.2, "colorTag": "グレー系" },
+  { "brand": "ワンデーアキュビューディファイン", "productName": "ラディアントブラウン", "diameter": 14.2, "colorTag": "ブラウン系" },
+
+  { "brand": "リンズフラット", "productName": "モイストブラウン", "diameter": 13.0, "colorTag": "ブラウン系" },
+  { "brand": "リンズフラット", "productName": "モイストグレー", "diameter": 13.0, "colorTag": "グレー系" },
+  { "brand": "リンズフラット", "productName": "モイストヘーゼル", "diameter": 13.0, "colorTag": "ヘーゼル系" },
+
+  { "brand": "オルルド", "productName": "スフレブラウン", "diameter": 14.5, "colorTag": "ブラウン系" },
+  { "brand": "オルルド", "productName": "スフレヘーゼル", "diameter": 14.5, "colorTag": "ヘーゼル系" },
+  { "brand": "オルルド", "productName": "スフレグレー", "diameter": 14.5, "colorTag": "グレー系" },
+
+  { "brand": "ヴィアージュ", "productName": "スムースブラウン", "diameter": 13.3, "colorTag": "ブラウン系" },
+  { "brand": "ヴィアージュ", "productName": "スムースグレー", "diameter": 13.5, "colorTag": "グレー系" },
+  { "brand": "ヴィアージュ", "productName": "スムースピンク", "diameter": 13.4, "colorTag": "ピンク系" },
+
+  { "brand": "ローズミュゼ", "productName": "ローズブラウン", "diameter": 13.8, "colorTag": "ブラウン系", "releasedAt": "2026-06-15T00:00:00Z" },
+  { "brand": "ローズミュゼ", "productName": "ローズグレー", "diameter": 13.8, "colorTag": "グレー系", "releasedAt": "2026-06-15T00:00:00Z" },
+  { "brand": "ローズミュゼ", "productName": "ローズヘーゼル", "diameter": 13.6, "colorTag": "ヘーゼル系", "releasedAt": "2026-06-15T00:00:00Z" },
+
+  { "brand": "クラシエール", "productName": "エレガントブラック", "diameter": 13.2, "colorTag": "ブラック系" },
+  { "brand": "クラシエール", "productName": "エレガントブラウン", "diameter": 13.3, "colorTag": "ブラウン系" }
 ]
