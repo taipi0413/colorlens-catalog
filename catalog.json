@@ -1,0 +1,23 @@
+[
+  {
+    "brand": "モラク",
+    "productName": "ワンモア ブラウン",
+    "diameter": 13.2,
+    "colorTag": "ブラウン系",
+    "barcode": "4901234567890"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ワンモア グレージュ",
+    "diameter": 13.6,
+    "colorTag": "グレー系",
+    "barcode": "4901234567891"
+  },
+  {
+    "brand": "新ブランド",
+    "productName": "新商品ブラウン",
+    "diameter": 13.5,
+    "colorTag": "ブラウン系",
+    "releasedAt": "2026-07-01T00:00:00Z"
+  }
+]
