@@ -1,39 +1,289 @@
 [
-  { "brand": "モラク", "productName": "コーラルブラウン", "diameter": 11.9, "colorTag": "ブラウン系" },
-  { "brand": "モラク", "productName": "ダズルグレー", "diameter": 12.8, "colorTag": "グレー系" },
-  { "brand": "モラク", "productName": "ダズルベージュ", "diameter": 12.8, "colorTag": "ブラウン系" },
-  { "brand": "モラク", "productName": "ミラーグレー", "diameter": 13.0, "colorTag": "グレー系" },
-  { "brand": "モラク", "productName": "サクラペタル", "diameter": 13.3, "colorTag": "ピンク系" },
-  { "brand": "モラク", "productName": "ティントブラウン", "diameter": 13.3, "colorTag": "ブラウン系" },
-  { "brand": "モラク", "productName": "バブルブルー", "diameter": 13.4, "colorTag": "ブルー系" },
-  { "brand": "モラク", "productName": "メルティーミスト", "diameter": 13.5, "colorTag": "グレー系" },
-  { "brand": "モラク", "productName": "ブラウンバニー", "diameter": 13.6, "colorTag": "ブラウン系", "barcode": "4582680140680" },
-  { "brand": "モラク", "productName": "ピンクボム", "diameter": 13.8, "colorTag": "ピンク系" },
-
-  { "brand": "エバーカラーワンデー", "productName": "ナチュラルブラウン", "diameter": 13.8, "colorTag": "ブラウン系" },
-  { "brand": "エバーカラーワンデー", "productName": "シャンパンブラウン", "diameter": 13.8, "colorTag": "ブラウン系" },
-  { "brand": "エバーカラーワンデー", "productName": "ナチュラルブラック", "diameter": 13.8, "colorTag": "ブラック系" },
-  { "brand": "エバーカラーワンデー", "productName": "パールベージュ", "diameter": 13.8, "colorTag": "ブラウン系" },
-  { "brand": "エバーカラーワンデー", "productName": "スムースコーラル", "diameter": 13.8, "colorTag": "ピンク系" },
-  { "brand": "エバーカラーワンデー", "productName": "クリアキャメル", "diameter": 13.8, "colorTag": "ブラウン系" },
-  { "brand": "エバーカラーワンデー", "productName": "ナチュラルモカ", "diameter": 13.8, "colorTag": "ブラウン系", "barcode": "4547683510373" },
-  { "brand": "エバーカラーワンデー", "productName": "アプリコットブラウン", "diameter": 13.8, "colorTag": "ブラウン系" },
-  { "brand": "エバーカラーワンデー", "productName": "ひとめぼれの恋", "diameter": 13.6, "colorTag": "ブラウン系" },
-  { "brand": "エバーカラーワンデー", "productName": "パールスノーグレー", "diameter": 13.6, "colorTag": "グレー系" },
-
-  { "brand": "フェアリー", "productName": "シルキージンジャー", "diameter": 12.6, "colorTag": "ブラウン系" },
-  { "brand": "フェアリー", "productName": "ミスノクターン", "diameter": 13.0, "colorTag": "ブラック系" },
-  { "brand": "フェアリー", "productName": "ハイライター", "diameter": 13.1, "colorTag": "ヘーゼル系" },
-  { "brand": "フェアリー", "productName": "ハロウォーム", "diameter": 13.3, "colorTag": "ブラウン系" },
-  { "brand": "フェアリー", "productName": "ラベンダーヌード", "diameter": 13.4, "colorTag": "バイオレット系" },
-  { "brand": "フェアリー", "productName": "チャイフープ", "diameter": 13.5, "colorTag": "ブラウン系" },
-  { "brand": "フェアリー", "productName": "ホログラムシェル", "diameter": 13.5, "colorTag": "グレー系" },
-  { "brand": "フェアリー", "productName": "シリウスミスティー", "diameter": 13.6, "colorTag": "グレー系" }
+  {
+    "brand": "モラク",
+    "productName": "コーラルブラウン",
+    "diameter": 11.9,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ダズルグレー",
+    "diameter": 12.8,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ダズルベージュ",
+    "diameter": 12.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ミラーグレー",
+    "diameter": 13.0,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "サクラペタル",
+    "diameter": 13.3,
+    "colorTag": "ピンク系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ティントブラウン",
+    "diameter": 13.3,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "バブルブルー",
+    "diameter": 13.4,
+    "colorTag": "ブルー系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "メルティーミスト",
+    "diameter": 13.5,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ブラウンバニー",
+    "diameter": 13.6,
+    "colorTag": "ブラウン系",
+    "barcode": "4582680140680"
+  },
+  {
+    "brand": "モラク",
+    "productName": "ピンクボム",
+    "diameter": 13.8,
+    "colorTag": "ピンク系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "ナチュラルブラウン",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "シャンパンブラウン",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "ナチュラルブラック",
+    "diameter": 13.8,
+    "colorTag": "ブラック系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "パールベージュ",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "パールロゼ",
+    "diameter": 13.8,
+    "colorTag": "ピンク系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "スムースコーラル",
+    "diameter": 13.8,
+    "colorTag": "ピンク系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "クリアキャメル",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "クラシックチーク",
+    "diameter": 13.8,
+    "colorTag": "ピンク系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "ミルクブラウニー",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "テディモカ",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "ナチュラルモカ",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系",
+    "barcode": "4547683510373"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "アプリコットブラウン",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "ひとめぼれの恋",
+    "diameter": 13.6,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "くぎづけの心",
+    "diameter": 13.6,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "エバーカラーワンデー",
+    "productName": "パールスノーグレー",
+    "diameter": 13.6,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "シルキージンジャー",
+    "diameter": 12.6,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "ミスノクターン",
+    "diameter": 13.0,
+    "colorTag": "ブラック系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "ハイライター",
+    "diameter": 13.1,
+    "colorTag": "ヘーゼル系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "ハロウォーム",
+    "diameter": 13.3,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "ラベンダーヌード",
+    "diameter": 13.4,
+    "colorTag": "バイオレット系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "チャイフープ",
+    "diameter": 13.5,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "ホログラムシェル",
+    "diameter": 13.5,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "フェアリー",
+    "productName": "シリウスミスティー",
+    "diameter": 13.6,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "キャンディーマジック",
+    "productName": "ミミブラウン",
+    "diameter": 13.7,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "キャンディーマジック",
+    "productName": "ミミグレー",
+    "diameter": 13.7,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "キャンディーマジック",
+    "productName": "メロブラウン",
+    "diameter": 13.9,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "キャンディーマジック",
+    "productName": "メログレー",
+    "diameter": 13.9,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "ベージュ",
+    "diameter": 13.6,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "グレージュ",
+    "diameter": 13.6,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "セピア",
+    "diameter": 13.7,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "ラテベージュ",
+    "diameter": 13.7,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "ダークモカ",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "ライトブラウン",
+    "diameter": 13.8,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "モモピンク",
+    "diameter": 13.9,
+    "colorTag": "ピンク系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "バニラブラウン",
+    "diameter": 13.9,
+    "colorTag": "ブラウン系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "プルモグレー",
+    "diameter": 14.0,
+    "colorTag": "グレー系"
+  },
+  {
+    "brand": "シークレットキャンディーマジック",
+    "productName": "バターブラウン",
+    "diameter": 14.0,
+    "colorTag": "ブラウン系"
+  }
 ]
-  { "brand": "キャンディーマジック", "productName": "サンセットピンク", "diameter": 14.1, "colorTag": "ピンク系" },
-
-  { "brand": "ラブコフレ", "productName": "シフォンブラウン", "diameter": 13.1, "colorTag": "ブラウン系" },
-  { "brand": "ラブコフレ", "productName": "シフォングレージュ", "diameter": 13.4, "colorTag": "グレー系" },
   { "brand": "ラブコフレ", "productName": "シフォンヘーゼル", "diameter": 13.0, "colorTag": "ヘーゼル系" },
   { "brand": "ラブコフレ", "productName": "シフォンブラック", "diameter": 13.2, "colorTag": "ブラック系" },
 
